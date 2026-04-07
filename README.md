@@ -3,8 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <title>My Website</title>
-</head>
+  </head>
 <body>
     <h1>Xin Chao ASP.NET 🚀</h1>
 </body>
